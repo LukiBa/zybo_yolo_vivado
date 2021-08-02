@@ -1,4 +1,5 @@
 # Zybo-Z7 Vivado project for YOLOv3-tiny using Intuitus hardware accelerator
+![GitHub](https://img.shields.io/github/license/LukiBa/zybo_yolo_vivado)
 Vivado 2017.4 project for YOLOv3-tiny application running on a Zybo-Z7-20 board. For CNN computation the Intuitus hardware accelerator IP is used. 
 This project is a modification of the basic linux implementation for Zybo-Z7 by Digilent: 
 <https://github.com/Digilent/Zybo-Z7-20-base-linux.git>
